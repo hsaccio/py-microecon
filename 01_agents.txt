@@ -1,0 +1,18 @@
+In classic microeconomics there are two agents:
+    - Companies
+    - Individuals
+
+Company:  
+        - Produce goods and services from production factors
+        (Individuals and machinery). 
+        - Choose how much goods to offer to the market and 
+        how many production factors to demand from the market.
+        - Maximization of profits is the ultimate goal for a firm.
+
+Individuals:
+        - Are rational, they always choose the most optimal solution
+        for the given informations and limits.
+        - Maximization of utility is the ultimal goal for an individual
+
+Market: 
+        - Set of trading actions related to some good or service.
