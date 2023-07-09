@@ -1,0 +1,7 @@
+Pareto efficiency is realized when resource allocation is such that is
+impossible to improve the situation of a subject without worsening others.
+
+An economic system is inefficient when is not Pareto efficient.
+
+Pareto efficiency is achieved if every market in an economic system is perfectly 
+competitive.
