@@ -98,3 +98,34 @@ b:float = 0.5
     """
 
     return - (L_marginal_productivity(L, K, A, a, b) / K_marginal_productivity(L, K, A, a, b))
+
+# Total cost
+def total_cost(
+w:float,
+r:float,
+L:float,
+K:float
+) -> float:
+    """
+
+    Args:
+        w (float): Hourly cost of labour
+        r (float): Hourly cost of capital utilization
+        L (float): Hours of labour
+        K (float): Hours of capital utilization
+
+    Returns:
+        float: total cost
+    """
+    
+    return w * L + r * K
+
+def isocost(
+w:float,
+r:float,
+L:float,
+TC_fixed:float
+):
+    K = (TC_fixed / r) - (w / r) * L
+    
+    return K
